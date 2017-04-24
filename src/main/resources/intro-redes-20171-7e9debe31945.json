@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "intro-redes-20171",
+  "private_key_id": "7e9debe3194518bca9a1774a51966dc04295debf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDa/T9nTpL2AsVN\nqLuQFP4k/a9QHpykdgUDbIx6pBWbOBrbF0WlGdA6r/WBndRrvGZlcjeBF9Cb+wP6\nvM3JxEqhZgnDqqszSaHalLDIewCH7+z05l0DcRbaUNT7WbsBsj/vmyIfRSy8xPZB\n5b1zjF2qHVU0UrgQKIGGbZ9zI2SDG9i0gpgTbCtmVnse8KjpuNc9n70LsK0FuIaC\nTFVcsfQkBBFNoEI0CX5YrwMM9FoToR+uvKbFDQc1oHuN6k8TmYN2CLCLc8lqtNKs\ni+2rlLaONQp3mzg0XpOse3Pc7JXqnJrB/QeH96vBB9f1SlSd3WEzMfQowkHrNf6r\nzHEiraHRAgMBAAECggEARXjn/2cO+lrAqzVnY3s1cRjF4D4F5arHRmHOYy3g6OAw\nrObCInGA/M1LrnYaqJ8ZQP+uGhcrCADnL0lsY6ERKAjN+jQPofKvFT/soX1cGsQD\nwWG/ilL7NAFGwAKkcBJTdDkb5x2z5qL5mMhAhQK3yDsMB9BiMkYXaUUnu4gz39+E\nZFIGMRCr3zc4zvbxnaF5l0ygzRAHFp4OAXff4ZgHYU7ojD15aM4+JVL45NLRVyH0\n4+uggv54GVtYC+PARX/kA/A9w1rmiJUVP1a2TkKEuVGe15rzjRlyETZ6W0G5k1HJ\npnwepyn4eYnKzjp+eUMDWhHiGEWkj343kZOhcgi6wQKBgQDzO/KMz0jSbtlYKmdi\np0z7cwYBOjN7zDjMJRI7v0X2b7Gp0PRVVKjis0PlXtU8iuzeX0X6LEK0jJxS834j\nJRCtJRBQ6uk5VnIiThZZayexo3Qy+fQF1WvDszr4bJvqYorTvtFMp3qgbo0IaQ8V\n6tJJZBssmP2sqpSOU9DFTLNReQKBgQDme4yzbIntlhd3tzuVn0KoDgxtn0QuX1Kh\nSdXeJkti8BkZ6cPBWttLp1/u2zP74hSnSdFd2PD/N48B7/z7qWHyQbLrYoZUGLKq\nZ39fUX5uFaKizPa8qGVL+3YlyunPI+YHlBkPzwIzoPWqcsn+UU8T9DW4WmTptK7+\npdX7FinVGQKBgQCXhJt2fdW2SJkZ4+hdOyyoYqG1+ASENNaYzOsLzv4NIs0ApQrf\ncQp3lgZQhv+8ZCpj5+OWkSXIhOMIhWfpCrjVswXz8jHwptoYZp5je23RqanD65LI\nY4dq9GZixH1nx5UFjJOi9Z1c/SDbwV5FX+85CqQm5vL3MZezBaFClqIJuQKBgGSX\niaoJdg1Ok4F5ZDUCJDpqnzv85eoDSnIAYqopNn/A4IOxxfEOsWVMcI8z9nU5j+AP\nVKRL+aq52d1zm4tOuuPbjrYy8wOjH99Feo7kZ3SuVqQNJqbiLAvEfSUzcWYpeczW\n8zU2GPTljDLPFJ+9ZvEDhaqnMSHa7QFQ6ZpDaxCJAoGBAPMMy8kLaGMYVcBaac0Y\ncuT4gKURwgMME1HRvVHfvIHnDyqiV/M9Ofzn8xj2TAgdgR2PpiVIgPX1FCyPNWc3\n+Sc0ufs7UdsUxQ3Gce9pAW+NZaGG9wdh2xJjpL35DcRhCJvVyc9WXUq5vMzyFKSC\nUGIM6JDuVOtarI1DdVWiARLU\n-----END PRIVATE KEY-----\n",
+  "client_email": "redes-171@intro-redes-20171.iam.gserviceaccount.com",
+  "client_id": "106649426719600958762",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/redes-171%40intro-redes-20171.iam.gserviceaccount.com"
+}
